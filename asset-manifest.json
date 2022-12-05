@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cf5bd79d.css",
+    "main.js": "/static/js/main.eefec9d6.js",
+    "static/js/787.64efb87d.chunk.js": "/static/js/787.64efb87d.chunk.js",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/start-mining-bitcoin.svg": "/static/media/start-mining-bitcoin.56ce397fe53ec7fb0a3b.svg",
+    "index.html": "/index.html",
+    "static/media/start-mining-ethereum.svg": "/static/media/start-mining-ethereum.f013f1fb2e52f70aa0fa.svg",
+    "static/media/arrow-down.svg": "/static/media/arrow-down.d10bd8ce30fc0055a3ca.svg",
+    "main.cf5bd79d.css.map": "/static/css/main.cf5bd79d.css.map",
+    "main.eefec9d6.js.map": "/static/js/main.eefec9d6.js.map",
+    "787.64efb87d.chunk.js.map": "/static/js/787.64efb87d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf5bd79d.css",
+    "static/js/main.eefec9d6.js"
+  ]
+}
